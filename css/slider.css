@@ -11,11 +11,11 @@
 	margin: 0px auto;
 	overflow: hidden;
 	background: transparent url(../images/slider_bg.jpg) repeat 0% 0%;
-	-webkit-transition: background-position 1.4s ease-in-out 0.3s;
-	-moz-transition: background-position 1.4s ease-in-out 0.3s;
-	-o-transition: background-position 1.4s ease-in-out 0.3s;
-	-ms-transition: background-position 1.4s ease-in-out 0.3s;
-	transition: background-position 1.4s ease-in-out 0.3s;
+	-webkit-transition: background-position 2.4s ease-in-out 0.8s;
+	-moz-transition: background-position 2.4s ease-in-out 0.73s;
+	-o-transition: background-position 2.4s ease-in-out 0.8s;
+	-ms-transition: background-position 2.4s ease-in-out 0.3s;
+	transition: background-position 2.4s ease-in-out 0.3s;
 }
 .da-slide{
 	padding:0 10%;
@@ -66,7 +66,7 @@
 .da-slide p{
 	font-family: 'Source Sans Pro', sans-serif;
 	width: 40%;
-	top: 165px;
+	top: 145px;
 	color: #ECFFFD;
 	font-size: 18px;
 	line-height: 26px;
@@ -84,7 +84,7 @@
 }
 .da-slide .da-link{
 	margin-left: 30px;
-	top: 270px;
+	top: 220px;
 	border-radius: 4px;
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
