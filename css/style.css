@@ -218,7 +218,7 @@ body {
 }
 /* header_btm */
 .header_btm{
-	background: #071312;
+	background: #0d1018;
 }
 .header_sub{
 	padding: 0 2%;
@@ -479,7 +479,7 @@ body {
 .b_btm{
 	position: absolute;
 	width: 100%;
-	border-bottom: 6px solid #3CC395;
+	border-bottom: 6px solid #6dd3ce;
 	left: 0px;
 	display: block;
 	bottom: 0px;
@@ -506,7 +506,7 @@ body {
 }
 /* start footer */
 .footer_bg{
-	background: #222a41;	
+	background: #0d1018;	
 }
 .footer{
 	padding: 2%;
