@@ -479,7 +479,7 @@ body {
 .b_btm{
 	position: absolute;
 	width: 100%;
-	border-bottom: 6px solid #6dd3ce;
+	border-bottom: 6px solid #d7263d;
 	left: 0px;
 	display: block;
 	bottom: 0px;
@@ -495,7 +495,7 @@ body {
 .price h4 span{
 	display: inline-block;
 	font-size: 1.1em;
-	background: #3CC395;
+	background: #6dd3ce;
 	color: #ffffff;
 	padding: 8px 20px;
 	margin-left: 30px;
@@ -546,7 +546,7 @@ body {
 }
 /* start footer1 */
 .footer_bg1{
-	background: #2DA89B;	
+	background: #6dd3ce;	
 }
 #toTop {
 	display: none;
@@ -1009,7 +1009,7 @@ p.para{
 	transition: all 0.3s ease-in-out;
 }
 .btn_form form input[type="submit"]:hover{
-	background: #3CC395;
+	background: #6DD3CE;
 }
 .span_right{
 	float: right;
