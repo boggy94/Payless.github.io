@@ -218,7 +218,7 @@ body {
 }
 /* header_btm */
 .header_btm{
-	background: #4CCFC1;
+	background: #071312;
 }
 .header_sub{
 	padding: 0 2%;
@@ -425,7 +425,7 @@ body {
 /* start main1 */
 .main_bg1{
 	border-top: 4px solid #47BEAF;
-	background: #40C4B2;
+	background: #222a41;
 }
 .main1{
 	padding: 2%;
@@ -506,7 +506,7 @@ body {
 }
 /* start footer */
 .footer_bg{
-	background: #40C4B2;	
+	background: #222a41;	
 }
 .footer{
 	padding: 2%;
